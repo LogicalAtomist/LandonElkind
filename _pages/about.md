@@ -1,14 +1,12 @@
 ---
 permalink: /
 title: 
-excerpt: "About"
+excerpt: 
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# _Logician, Philosopher, and Logical Atomist_
 Welcome to my website! I am a [Killam Postdoctoral Fellow](https://www.ualberta.ca/research/support/post-doctoral-office/awards-funding/u-of-a-fellowships) in the [University of Alberta Philosophy Department](https://www.ualberta.ca/philosophy/index.html). Here is [a link to my CV](https://ln2.sync.com/dl/bf39b76e0/im6dgew9-27ehqyf2-agk7f7kf-qttpatdu).
 
 In true Texan fashion, I started in philosophy while in a car, reading Plato’s Republic on a road trip to Houston in junior high. I later took symbolic logic as a college freshman and fell in love with the subject. One thing led to another, and in 2018, I got a PhD in Philosophy and an MS in Mathematics from the University of Iowa.
