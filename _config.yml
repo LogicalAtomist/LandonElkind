@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Landon D.C. Elkind"
-  avatar           : "profile.png"
+  avatar           : "WebsiteAB.jpg"
   bio              : "Your biography for the left-hand sidebar"
   #location         : "Edmonton, Alberta, Canada"
   employer         : "University of Alberta"
@@ -258,7 +258,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Edmonton # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
