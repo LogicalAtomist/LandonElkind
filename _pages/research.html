@@ -1,0 +1,148 @@
+---
+layout: archive
+title: "Research"
+permalink: /research/
+author_profile: true
+---
+<!-- wp:heading {"level":1,"align":"center"} -->
+<h1><strong><strong>The </strong></strong><em><strong>Principia</strong></em><strong> Rewrite Project</strong></h1>
+<!-- /wp:heading -->
+
+<!-- wp:image {"align":"center","id":1415,"sizeSlug":"large","linkDestination":"none"} -->
+<div class="wp-block-image"><figure class="aligncenter size-large"><img src="/images/logocanvas.png?w=1000" alt="" class="wp-image-1415"/></figure></div>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Most of my current research as a Killam Postdoctoral Fellow focuses on <a href="https://www.principiarewrite.com/">the <em>Principia</em> Rewrite project</a>, which is my long-term, open-source, digital humanities project of rewriting Whitehead and Russell's <em><a href="https://digitalarchive.mcmaster.ca/islandora/object/macrepo%3A90175#page/1/mode/2up">Principia Mathematica</a></em>. What I am actually doing is best summarized in a picture:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1357,"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://digitalarchive.mcmaster.ca/islandora/object/macrepo%3A90175#page/1/mode/2up"><img src="/images/2.37sidebysidebysidearrows.png?w=1024" alt="" class="wp-image-1357"/></a><figcaption>From the original proof sketch in <a href="https://digitalarchive.mcmaster.ca/islandora/object/macrepo%3A90175#page/1/mode/2up"><em>Principia</em></a> (left), to the full reconstructed proof in <em><a href="https://coq.inria.fr/">Coq</a></em> (middle), to the rewritten <em>Principia</em> with the full proof (right)</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Rewriting <em>Principia</em> is a three-step process: first, I take Whitehead and Russell’s original <em>Principia</em> proof on the left. However, the original "proof" is in most cases really a proof sketch omitting a lot of steps. So the second step involves filling out the missing steps. For this I am using the interactive theorem prover <code><a href="https://coq.inria.fr/">Coq</a></code> to ensure each proof step is a valid step according to <em>Principia</em>’s axioms and that no steps are skipped, even by accident. Finally, I am taking the <code>Coq</code> encoding to reconstruct and typeset the full, gap-free proof as it would appear in <em>Principia</em>’s notation. Below is a sample screenshot of the encoding of *4.4 in <code>Coq</code>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"none","id":1236,"className":"size-full wp-image-1236"} -->
+<figure class="wp-block-image alignnone size-full wp-image-1236"><img src="/images/pm-4.4-trimmed.png" alt="PM 4.4 trimmed" class="wp-image-1236"/><figcaption><em>Computer-checked proof of *4.4</em></figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>So far, the <em>Principia</em> Rewrite project has, for the first time, computer verified all of <em>Principia</em>'s Section A (propositional logic, or *1-*5) in a historically accurate way. By "historically accurate," I mean that all 189 proofs in <em>Principia</em>'s propositional logic have been reconstructed fully in <code>Coq</code> such that each full proof cites all propositions mentioned in Whitehead and Russell's proof sketch. In the next year, I plan to complete a rewrite of Section B (quantification theory, reducibility, identity, and descriptions, or *9-*14) that is similarly faithful to the original text's proof sketches.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The <em>Principia</em> Rewrite project has methodological interest as suggesting a way for historians of philosophy to deploy computational tools in reconstructing arguments in texts. Interactive theorem provers like <code>Coq</code> allow us to encode and computer check reconstructions of texts, and to cross-check and compare them with other reconstructions throughout a corpus. Some interactive theorem provers can even offer hints and suggestions as to what to do next in constructing a proof. This is suggestive of one way in which modern digital tools can be useful to scholars doing traditional scholarship in the history of philosophy.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The <em>Principia</em> Rewrite project also has historical interest. It helps us rethink <em>Principia</em>'s reputation as a "step backwards" from Gottlob Frege's <em>Grundgesetze</em>. This sort of evaluation of <em>Principia</em> was defended by notable logicians like Kurt Gödel, who especially complained about its proof sketches and syntax. The <em>Principia</em> Rewrite is revealing, firstly, that the proof sketches are actually quite methodical, so that what is omitted are almost always simple applications of commutativity or association. So this project gives us insight into the logical structure of <em>Principia</em>, as might be visualized using a subway-style map. Below is a sample of from the propositional logic proofs in *2.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1417,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/images/primitive_propositions.png?w=1024" alt="" class="wp-image-1417"/><figcaption>The logical structure of *2.01-*2.08 of <em>Principia Mathematica</em></figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Secondly, the <em>Principia</em> Rewrite project can serve as a tool to settle longstanding scholarly disputes concerning <em>Principia</em>'s syntax: scholars debate whether the syntax is ramified or not. This will allow one to automatically verify whether the proofs stand on each rival reading and to survey whether proofs are preserved on the competing interpretations. It would also bear on Gödel's and others' criticism of the omitted type indices and scope conventions: it would stand to reason that the omissions are not so severe if they can be reconstructed faithfully and fully in <code>Coq</code>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Finally, the <em>Principia</em> Rewrite project also bears on the philosophy of mathematics: this coding of <em>Principia </em>will function as a tool for rigorously extending <em>Principia</em>'s logical framework to areas of mathematics not covered in the original work, like group theory, topology, and geometry, providing further support for the Logicist view of mathematics, which I am also concerned to defend in other papers.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong><em>Funding</em>. </strong>This project was first undertaken with the support of an <a href="https://www.ualberta.ca/research/support/post-doctoral-office/awards-funding/u-of-a-fellowships">Izaak Walton Killam Memorial Postdoctoral Fellowship</a> with the <a href="https://www.ualberta.ca/philosophy/index.html">University of Alberta's Philosophy Department</a>. Thanks are due to the <a href="http://www.killamlaureates.ca/">Killam Trusts</a> for their support of this research.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"center","id":1152,"className":"alignnone size-full wp-image-1152"} -->
+<div class="wp-block-image alignnone size-full wp-image-1152"><figure class="aligncenter"><img src="/images/pm-2.14-2.15.png" alt="pm-2.14-2.15" class="wp-image-1152"/><figcaption><em>Proofs of *2.14-*2.15 next to the original Principia</em></figcaption></figure></div>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":1,"align":"center"} -->
+<h1><strong>Digitizing Russell's pocket diaries</strong></h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Bertrand Russell's pocket diaries are currently held in the <a href="https://library.mcmaster.ca/spaces/archives/russell">Bertrand Russell Archives</a>. These 64 diaries, spanning 1902-1905 and 1908-1969, are entirely contained in <a href="http://archives.mcmaster.ca/index.php/pocket-diaries">Series 240, Box Numbers 9.18-9.20</a>. They span a good deal of Russell's 97-year life. They have not yet been published in an edited collection for scholarly use, nor digitized so as to make them easily searchable or readily viewable online.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>However, Russell's pocket diaries shed valuable light on not only who Russell met and when—which is manifestly valuable for historical and scholarly work on Russell's life and philosophy—but also how Russell viewed certain things. For example, in one pocket diary Russell described his famous lectures on logical atomism as "LL" - logic lectures. This is evidence that Russell saw his lectures as logic-oriented rather than, as many scholars have argued, as epistemology-oriented. This is quite a nugget of information contained in one of these diaries.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"none","id":163,"className":"size-large wp-image-163"} -->
+<figure class="wp-block-image alignnone size-large wp-image-163"><img src="/images/dscn6108.jpg?w=2048" alt="DSCN6108" class="wp-image-163"/><figcaption>Week of Lecture 1</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>The goal of this project is to digitize the pocket diaries so as to make them searchable and viewable online, and also to publish a scholarly edition of these diaries as an edited collection.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":1} -->
+<h1>Other paper projects</h1>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>Carnap's marginal notes on Manley H. Thompson's term paper for Russell's U. Chicago seminar</li><li>Computer verification for historians of philosophy</li><li>Dot notation in <em>Principia</em>: its forerunners, its descendants, and its near-demise</li><li>Dorothy Wrinch's work on set theory and the axiom of choice in the 1920s</li><li>Logical atomism in Wittgenstein's pre-<em>Tractatus</em> 1913 <em>Notes</em> and 1914 <em>Notes</em></li><li>Making anti-exceptionalism about logic consistent with logic's basic epistemic role</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":1,"align":"center"} -->
+<h1><strong>Past Projects</strong></h1>
+<!-- /wp:heading -->
+
+<!-- wp:heading -->
+<h2>The University of Iowa <em>Tractatus</em> Map</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>I contributed to <a href="http://tractatus.lib.uiowa.edu/" rel="nofollow">The University of Iowa Tractatus Map</a>, a project led by <a href="https://clas.uiowa.edu/philosophy/people/david-g-stern" rel="nofollow">David G. Stern</a> and <a href="https://clas.uiowa.edu/philosophy/people/phillip-ricks" rel="nofollow">Phillip Ricks</a>. My main contribution was to convert the text of the <em>Prototractatus </em>into a digital format that allowed us to generate a digital, subway-style map of the <em>Prototractatus </em>and compare it to the <em>Tractatus</em>. The project is described in <a href="http://dailynous.com/2016/11/15/tractatus-subway-map/" rel="nofollow">Daily Nous</a>. Here is a brief summary, and a picture of the University of Iowa <em>Tractatus</em> Map:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"center","id":582} -->
+<div class="wp-block-image"><figure class="aligncenter"><img src="/images/tm.png?w=2048" alt="TM" class="wp-image-582"/></figure></div>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Thanks to Luciano Bazzochi's <a href="http://www.bazzocchi.net/wittgenstein/tractatus/eng/index.htm" rel="nofollow">work</a> on Wittgenstein's <em>Tractatus</em>, we have a new and illuminating way to read the <em>Tractatus</em>. We may arrange the <em>Tractatus</em>' numbered propositions 'tree-wise', as opposed to arranging them in the usual linear manner. This produces a subway-style map of the <em><a href="http://tractatus.lib.uiowa.edu/tlp/" rel="nofollow">Tractatus</a></em> and of the earlier <em><a href="http://tractatus.lib.uiowa.edu/pt/" rel="nofollow">Prototractatus</a></em>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>So there has been much fruitful activity in producing survey-able, 'tree-wise' arrangements of the <em>Tractatus</em>. Though we now have subway-style maps, we are still missing a public-domain, tree-wise textual arrangement of the <em>Prototractatus</em>. One of my ongoing projects is to produce such an edition of the <em>Prototractus</em> using <a href="https://www.latex-project.org/" rel="nofollow">LaTeX</a>. This would be a readable and illuminating re-arrangement of an important text for both Wittgenstein scholars and students of the history of philosophy.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":1} -->
+<h1>Dissertation</h1>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"align":"center"} -->
+<h2><strong><em><strong><strong><strong>The Search for Logical Forms: In Defense of Logical Atomism</strong></strong></strong></em></strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>In my dissertation, I defend a new version logical atomism. I first criticize the standard interpretation of Russell's logical atomism as a search for logical atoms, and then I reinterpret it as a search for logical forms. I argue that logical atomists are <em>term-busters</em>, and they search for logical forms by taking apparent <em>terms</em> and busting them into <em>non-term parts of formulas</em>, just as is done in <em>Principia Mathematica</em>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"center","id":599} -->
+<div class="wp-block-image"><figure class="aligncenter"><img src="/images/thesis-spine.jpg" alt="Thesis Spine.jpg" class="wp-image-599"/></figure></div>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>I split my dissertation into two parts: in the first part, I support my interpretation of logical atomism using its history. In the second part, I develop my own brand of logical atomism. So in the first part, I reinterpret the logical atomism genus; in the second part, I create my own species of logical atomism.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A public abstract is <a title="Dissertation Abstract (Elkind)" href="https://ln.sync.com/dl/056e3e890/cutn6hpz-iz4tcvms-haab6usz-a3r8m5yy">available here</a>. The chapter titles are as follows:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><li>The Logical Atomism of Russell</li><li>The Archetype for Logical Atomism: <em>Principia Mathematica</em></li><li>The Logical Atomism of Wittgenstein</li><li>A Philosophy of Logic for Logical Atomism: Pure Logic</li><li>A Formal Logic for Pure Logic: <strong>Z</strong>-Types</li><li>A Metaphysics for <strong>Z</strong>-Types: Logical Concepts and Logical Facts</li></ol>
+<!-- /wp:list -->
+{% include base_path %}
+
+<!--
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
+-->
