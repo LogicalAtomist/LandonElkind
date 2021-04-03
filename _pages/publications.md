@@ -4,6 +4,145 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<h2 style="text-align: center;"><strong>Journal articles (peer reviewed)
+</strong></h2>
+<ul>
+ 	<li><strong>accepted </strong>"The Kantian Context for Frege's Philosophy of Logic"
+<ul>
+ 	<li><em>Journal for the History of Analytical Philosophy</em></li>
+</ul>
+</li>
+ 	<li><strong>accepted </strong>"The Contact Argument: A Little Unduly Simple?"
+<ul>
+ 	<li><em>American Philosophical Quarterly</em></li>
+</ul>
+</li>
+ 	<li><strong>2020 </strong>"<a href="https://doi.org/10.11612/resphil.1950">A Case Study in Formalizing Contingent <em>A Priori</em> Claims</a>"
+<ul>
+ 	<li><em>Res Philosophica</em>, Special Issue: Modal Epistemology, Vol. 97: No. 4, pp. 571-591</li>
+</ul>
+</li>
+ 	<li><strong>2020 </strong>"<a href="https://doi.org/10.15173/russell.v40i1.4260">Why Russell was not an Epistemic Structural Realist</a>"
+<ul>
+ 	<li><em>Russell: the Journal of Bertrand Russell Studies</em>, Volume 40: No. 1, pp. 5-26</li>
+ 	<li><em>with</em> <a href="https://philpeople.org/profiles/jeremy-shipley">Jeremy Shipley</a> (co-author)</li>
+</ul>
+</li>
+ 	<li><strong>2019 </strong>"<a title="Abrams &amp;amp; Elkind (2019) Word Choice in Mathematical Practice" href="https://doi.org/10.1007/s11229-019-02287-6">Word Choice in Mathematical Practice: a Case Study in Polyhedra</a>"
+<ul>
+ 	<li><em>Synthese</em>, Online First: pp. 1-29</li>
+ 	<li><em>with</em> <a href="https://home.gwu.edu/~labrams/">Lowell Abrams</a> (co-author)</li>
+</ul>
+</li>
+ 	<li><strong>2019</strong> "<a href="https://philpapers.org/rec/ELKOJA">On Jain <em>Anekāntavāda</em> and Pluralism in Philosophy of Mathematics</a>"
+<ul>
+ 	<li><em>International School for Jain Studies—Transactions</em>, Vol. 3: No. 2, pp. 13-20</li>
+</ul>
+</li>
+ 	<li><strong>2017 </strong>"<a title="Elkind (2017) Against Sense-Data as Structured Universals" href="https://doi.org/10.5840/logos-episteme20178327">Against Sense-Data as Structured Universals</a>"
+<ul>
+ 	<li><em>Logos &amp; Episteme</em>, Vol. 8: Iss. 3, pp. 359-363</li>
+</ul>
+</li>
+ 	<li><strong>2015 </strong>"<a href="https://philpapers.org/rec/DUENAK-2"><span title="International Alphabet of Sanskrit Transliteration">Śāntarakṣita</span> and Kamalaśīla on the Jain Theory of Self</a>"
+<ul>
+ 	<li><em>Indian International Journal of Buddhist Studies</em>: No. 16, pp. 63-89</li>
+ 	<li><em>with</em> <a href="http://clas.uiowa.edu/philosophy/people/james-duerlinger" rel="nofollow">James Duerlinger</a> and <a href="http://www.bhu.ac.in/arts/pali_buddist/faculty.php" rel="nofollow">Siddharth Singh</a> (co-authors)</li>
+</ul>
+</li>
+</ul>
+<h2 style="text-align: center;"><strong>Book chapters (editor reviewed)
+</strong></h2>
+<ul>
+ 	<li><strong>accepted </strong>"Russell's Logical Atomism and Modality"
+<ul>
+ 	<li><em>The Oxford Handbook to Bertrand Russell</em>, Oxford University Press: <a href="https://people.umass.edu/klement/">Kevin C. Klement</a> (editor)</li>
+</ul>
+</li>
+ 	<li><strong>forthcoming </strong>"Peano's Impression of Russell"
+<ul>
+ 	<li><em>Portraits of Bertrand Russell</em>, Bloomsbury: <a href="https://www.mtroyal.ca/ProgramsCourses/FacultiesSchoolsCentres/Arts/Departments/Humanities/Faculty/GulberkKocMaclean.htm">Gülberk Koc Maclean</a> (editor)</li>
+</ul>
+</li>
+ 	<li><strong>forthcoming </strong>"Russell on the Ethical Value of Logic"
+<ul>
+ 	<li><em>Bertrand Russell: Public Intellectual</em>, Tiger Bark Press: <a href="https://www.sjfc.edu/profiles/profile-last-name-2663-en.html">Timothy J. Madigan</a> and <a href="https://www.tcd.ie/research/profiles/?profile=pstone">Peter Stone</a> (editors)</li>
+</ul>
+</li>
+ 	<li><strong>2021 </strong>"The Iowa Lyceum"
+<ul>
+ 	<li><a href="https://rowman.com/ISBN/9781475847222/Growing-Up-with-Philosophy-Camp-How-Learning-to-Think-Develops-Friendship-Community-and-a-Sense-of-Self"><em>Growing Up with Philosophy Camp</em></a>, Rowman &amp; Littlefield: <a href="https://liberalarts.tamu.edu/philosophy/profile/claire-katz/">Claire Katz</a> (editor)</li>
+ 	<li><em>with</em> <a href="https://philpeople.org/profiles/gregory-stoutenburg">Gregory Stoutenburg</a> (co-author)</li>
+</ul>
+</li>
+ 	<li><strong>2018 </strong>"<a href="https://doi.org/10.1007/978-3-319-94364-0_1">On Russell's Logical Atomism</a>"
+<ul>
+ 	<li><a href="http://10.1007/978-3-319-94364-0"><em>The Philosophy of Logical Atomism: A Centenary Reappraisal</em></a>, Palgrave Macmillan</li>
+</ul>
+</li>
+</ul>
+<h2 style="text-align: center;"><strong>Edited volumes</strong></h2>
+<ul>
+ 	<li><strong>2018 </strong><a href="http://10.1007/978-3-319-94364-0"><em>The Philosophy of Logical Atomism: A Centenary Reappraisal</em></a>
+<ul>
+ 	<li>Palgrave Macmillan (December 14, 2018): pp. VII, 349</li>
+ 	<li><em>with</em> <a href="https://clas.uiowa.edu/philosophy/people/gregory-landini">Gregory Landini</a> (co-editor)</li>
+</ul>
+</li>
+</ul>
+<h2 style="text-align: center;"><strong>Digital scholarship</strong></h2>
+<ul>
+ 	<li><strong>2020 </strong>"<a href="https://ctan.org/pkg/principia">The&nbsp;<em>principia</em> Package for LaTeX</a>"
+<ul>
+ 	<li>Killam Postdoctoral Fellowship Project</li>
+</ul>
+</li>
+ 	<li><strong>2017</strong> "<a href="http://tractatus.lib.uiowa.edu/">The University of Iowa&nbsp;<em>Tractatus&nbsp;</em>Map</a>"
+<ul>
+ 	<li>The University of Iowa's Digital Scholarship and Publishing Studio</li>
+ 	<li><em>with</em> <a href="https://clas.uiowa.edu/philosophy/people/david-g-stern" rel="nofollow">David G. Stern</a> (lead investigator) and <a href="https://clas.stage.drupal.uiowa.edu/philosophy/people/phillip-ricks">Phillip Ricks</a></li>
+</ul>
+</li>
+</ul>
+<h2 style="text-align: center;"><strong>Book reviews</strong></h2>
+<ul>
+ 	<li><strong>2020 </strong>"<a href="https://doi.org/10.15173/jhap.v8i8.4451">Review: <em>On the Genealogy of Universals</em> by Fraser MacBride</a>"
+<ul>
+ 	<li><em>Journal for the History of Analytic Philosophy</em>, Vol. 8: No. 8, pp. 12-30</li>
+ 	<li>Review of <a href="https://www.research.manchester.ac.uk/portal/fraser.macbride.html">Fraser MacBride</a>'s (2018) <em>On the Genealogy of Universals: The Metaphysical Origins of Analytic Philosophy</em></li>
+</ul>
+</li>
+ 	<li><strong>2018</strong> "<a title="Elkind (2018) A Historically Informed Defense of Russell's Multiple-Relation Theory of Judgment" href="https://doi.org/10.15173/russell.v38i1.3670">A Historically-Informed Defense of Russell's Multiple-Relation Theory of Judgment</a>"
+<ul>
+ 	<li><em>Russell: the Journal of Bertrand Russell Studies</em>, Vol. 38: No. 1, pp. 89-96</li>
+ 	<li>Review of <a href="https://haifa.academia.edu/SamLebens" rel="nofollow">Samuel Lebens</a>' (2017) <em>Bertrand Russell and the Nature of Propositions: A History and Defense of the Multiple Relation Theory of Judgment</em></li>
+</ul>
+</li>
+</ul>
+<h2 style="text-align: center;"><strong>Other publications</strong></h2>
+<ul>
+ 	<li><strong>2018</strong> "<a href="http://dailynous.com/2018/10/23/philosophers-teach-quantitative-reasoning-courses/">What Should Philosophers Teach in Quantitative Reasoning Courses?</a>"
+<ul>
+ 	<li><em>Daily Nous</em></li>
+</ul>
+</li>
+ 	<li><strong>2017</strong> "<a href="https://www-pdcnet-org.login.ezproxy.library.ualberta.ca/collection/show?id=philnow_2017_0120_0021_0022&amp;file_type=pdf">Bertrand Russell on Something</a>"
+<ul>
+ 	<li><em>Philosophy Now</em> 120: pp. 21-22</li>
+</ul>
+</li>
+ 	<li><strong>2017 </strong>"<a href="https://www.forwardpress.in/2017/08/exploring-the-influence-of-russell-on-ambedkar/">Exploring the Influence of Bertrand Russell on Bhimrao Ambedkar</a>''
+<ul>
+ 	<li><em>Forward Press</em></li>
+ 	<li><em>with </em><a href="https://commstudies.utexas.edu/faculty/scott-stroud" rel="nofollow">Scott R. Stroud</a>&nbsp;(co-author)</li>
+</ul>
+</li>
+ 	<li><strong>2017</strong> "<a href="http://dailynous.com/2016/07/06/costs-publishing-principia-mathematica-landon-elkind/">The Cost of Publishing Principia Mathematica</a>"
+<ul>
+ 	<li><em>Daily Nous</em></li>
+</ul>
+</li>
+</ul>
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
