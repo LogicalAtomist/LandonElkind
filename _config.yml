@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Landon D. C. Elkind"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Landon D. C. Elkind"
+description              : &description "Philosopher, Logician, Logical Atomist"
+url                      : https://www.landonelkind.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "LogicalAtomist/LandonElkind"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -83,11 +83,12 @@ author:
   name             : "Landon D.C. Elkind"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Edmonton, Alberta, Canada"
+  #location         : "Edmonton, Alberta, Canada"
   employer         : "University of Alberta"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=8lPE_g0AAAAJ"
   email            :
+  PM Rewrite        : "https://www.principiarewrite.com/"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -115,6 +116,8 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  philpapers       : "https://philpeople.org/profiles/landon-d-c-elkind"
+  LibriVox         : "https://librivox.org/reader/9738"
 
 
 # Reading Files
