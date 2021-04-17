@@ -3,7 +3,7 @@ title: "Any philosophical canon is practically self-undermining"
 collection: talks
 type: "Talk"
 permalink: /talks/2021-04-05-Pacific-APA
-venue: "Zoom"
+venue: "Pacific APA"
 date: 2021-04-05
 location: "Portland, Oregon"
 ---
