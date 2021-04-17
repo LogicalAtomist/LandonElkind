@@ -1,5 +1,5 @@
 ---
-title: "Talk 1 on Relevant Topic in Your Field"
+title: "Any philosophical canon is practically self-undermining"
 collection: talks
 type: "Talk"
 permalink: /talks/2021-04-05-Pacific-APA
