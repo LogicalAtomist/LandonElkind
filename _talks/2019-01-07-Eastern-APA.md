@@ -5,7 +5,7 @@ type: "Talk"
 permalink: /talks/2019-01-07-Eastern-APA
 venue: "Eastern APA"
 date: 2019-01-07
-location: "New York, New York"
+location: "New York, NY"
 ---
 
 I prove a theorem of infnity for *Principia Mathematica*. The proof requires altering
