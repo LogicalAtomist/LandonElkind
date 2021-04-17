@@ -1,5 +1,5 @@
 ---
-title: "A theorem of infinite for *Principia Mathematica*"
+title: "A theorem of infinity for *Principia Mathematica*"
 collection: talks
 type: "Talk"
 permalink: /talks/2019-01-07-Eastern-APA
