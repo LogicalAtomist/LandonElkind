@@ -8,6 +8,8 @@ date: 2019-01-07
 location: "New York, NY"
 ---
 
+<details>
+  <summary>Abstract</summary>
 I prove a theorem of infnity for *Principia Mathematica*. The proof requires altering
 the meta-theory of *Principia*. In *Principia* we have a simple type theory with a lowest
 type (call this 'simple ℕ-type theory'). Our key idea is to allow for infnitely-descending
@@ -17,3 +19,4 @@ of *Principia*'s (well-founded) simple type theory, this adjustment is minor. Th
 is also implicitly suggested by various remarks of Whitehead and Russell. By
 so-adjusting *Principia*, a core objection to Logicism--namely, that Logicism cannot
 recover Peano arithmetic without an axiom of infnity--dissipates.
+</details>
