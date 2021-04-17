@@ -5,7 +5,7 @@ type: "Talk"
 permalink: /talks/2021-04-05-Pacific-APA
 venue: "Pacific APA"
 date: 2021-04-05
-location: "Portland, Oregon"
+location: "Portland, OR"
 ---
 
 There has recently been much-needed critical discussion of the current Anglo-American philosophical canons, 
