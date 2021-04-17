@@ -6,28 +6,18 @@ author_profile: true
 ---
 * = <em>online</em>
 <h2 style="text-align:center;"><strong>APA Symposia</strong></h2>
-<ul>
- 	<li><strong>2021</strong> APA Pacific Division, March 31—April 4: Portland, Oregon*
-</ul>
- 	<li>"Any Philosophical Canon is Practically Self-Undermining"</li>
-</ul>
-</li>
- 	<li><strong>2019 </strong>APA Eastern Division, January 7-10: New York, New York
-<ul>
- 	<li>"A Theorem of Infinity for <i>Principia Mathematica</i></li>
-</ul>
-</li>
- 	<li><strong>2016 </strong>APA Central Division, March 3: Chicago, Illinois
-<ul>
- 	<li>"On Russell's "Vagueness""</li>
-</ul>
-</li>
- 	<li><strong>2015 </strong>APA Central Division, February 21, 2015: St. Louis, Missouri
-<ul>
- 	<li>"In Defense of Simples in Contact"</li>
-</ul>
-</li>
-</ul>
+
+
+{% if site.talkmap_link == true %}
+
+<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+
+{% endif %}
+
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
+
 <h2 style="text-align:center;"><strong>Specialist Conferences</strong></h2>
 <ul>
  	<li><strong>2021</strong> Association of Symbolic Logic: South Bend, Indiana*
@@ -260,16 +250,6 @@ author_profile: true
 <ul>
  	<li>"An Emotivist Natural Law Jurisprudence"</li>
 </ul>
-</li>
-</ul>
-
-{% if site.talkmap_link == true %}
-
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
-{% endif %}
-
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
+ </li>
+ </ul>
 
