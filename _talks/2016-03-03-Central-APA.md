@@ -1,13 +1,13 @@
 ---
 title: "On Russell's "Vagueness""
 collection: talks
-type: "Conference"
+type: "Talk"
 permalink: /talks/2016-03-03-Central-APA
 venue: "Central APA"
 date: 2016-03-03
 location: "Chicago, IL"
 ---
-ack
+
 <details>
   <summary>Abstract</summary>
 I argue that Bertrand Russell's 1923 ''Vagueness'' has wrongly endured long-standing
