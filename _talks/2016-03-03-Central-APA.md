@@ -1,5 +1,5 @@
 ---
-title: "On Russell's "Vagueness""
+title: "On Russell's ''Vagueness''"
 collection: talks
 type: "Talk"
 permalink: /talks/2016-03-03-Central-APA
