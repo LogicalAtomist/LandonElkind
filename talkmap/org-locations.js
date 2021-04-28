@@ -1,11 +1,11 @@
 var addressPoints = [
   [
-    "Portland OR, USA",
+    "Portland, OR",
     45.5051,
     -122.6750
   ],
   [
-    "New York NY, USA",
+    "New York, NY",
     40.7128,
     -74.0060
   ],
@@ -25,17 +25,17 @@ var addressPoints = [
     -118.2439408
   ]
   [
-    "Memphis TN, USA",
+    "Memphis, TN",
     35.1495,
     -90.0490
   ],
   [
-    "Iowa City IA, USA",
+    "Iowa City, IA",
     41.6611,
     -91.5302
   ],
   [
-    "Delhi, India",
+    "New Delhi, India",
     41.6611,
     77.1025
   ],
