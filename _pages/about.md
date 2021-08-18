@@ -25,8 +25,9 @@ In true Texan fashion, I started in philosophy while in a car, reading Plato’s
 * Philosophy of Science
 
 ## Academic employment
-* **2020-present** University of Alberta, Philosophy, Izaak Walton Killam Postdoctoral Fellow
-* **2018-2020** University of Iowa, Philosophy, Visiting Assistant Professor
+* **2021-present** Western Kentucky University, Department of Political Science, Assistant Professor of Philosophy
+* **2020-2021** University of Alberta, Department of Philosophy, Izaak Walton Killam Postdoctoral Fellow
+* **2018-2020** University of Iowa, Department of Philosophy, Visiting Assistant Professor
 
 ## Education
 * **2018** PhD in Philosophy and MS in Mathematics, University of Iowa 
