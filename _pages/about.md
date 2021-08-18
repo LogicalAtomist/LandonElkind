@@ -31,6 +31,7 @@ In true Texan fashion, I started in philosophy while in a car, reading Plato’s
 
 ## Education
 * **2018** PhD in Philosophy and MS in Mathematics, University of Iowa 
-  * Thesis: *The Search for Logical Forms: In Defense of Logical Atomism* ([abstract](https://ln2.sync.com/dl/a0d739040/rrrgbcx9-ryczibkx-m4ynzbgs-d48ngjts))
-  * Committee: Gregory Landini (supervisor), Richard Fumerton, Nicholas Griffin (McMaster University), Ali Hasan, David G. Stern, and Russell Wahl (Idaho State University)
+  * Thesis: "The Search for Logical Forms: In Defense of Logical Atomism" ([abstract](https://ln2.sync.com/dl/a0d739040/rrrgbcx9-ryczibkx-m4ynzbgs-d48ngjts))
 * **2013** BA with honors in Philosophy and BS in Mathematics, George Washington University
+  * Thesis (philosophy): "A Naive Reading of *Principia Mathematica*"
+  * Thesis (mathematics): "Mathematical Language, Definition, and Practice"
