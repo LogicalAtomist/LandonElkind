@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Conceptual Engineering or Revisionary Conceptual Analysis? The Case of Russell's Metaphilosophy Based on *Principia Mathematica*'s Logic"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'http://academicpages.github.io/files/CEorRCA.pdf'
+citation: 'Elkind, Landon D. C. (forthcoming). &quot;Conceptual Engineering or Revisionary Conceptual Analysis? The Case of Russell's Metaphilosophy Based on *Principia Mathematica*'s Logic.&quot; <i>Dialogue</i>.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Conceptual engineers have made hay over the differences of their metaphilosophy from those of conceptual analysts. In this article, I argue that the differences are not as great as conceptual engineers have, perhaps rhetorically, made them seem. That is, conceptual analysts asking 'What is *X*?' questions can do much the same work that conceptual engineers can do with 'What is *X* for?' questions, at least if conceptual analysts self-understand their activity as a revisionary enterprise. I show this with a study of Russell's metaphilosophy, which was just such a revisionary conception of conceptual analysis. 
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download the preprint here](http://academicpages.github.io/files/CEorRCA.pdf)
