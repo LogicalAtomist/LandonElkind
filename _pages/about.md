@@ -11,6 +11,11 @@ Welcome to my website! I am Western Kentucky University's resident logical atomi
 
 In true Texan fashion, I started in philosophy while in a car, reading Plato’s Republic on a road trip to Houston in junior high. I later took symbolic logic as a college freshman and fell in love with the subject. One thing led to another, and in 2018, I got a PhD in Philosophy and an MS in Mathematics from the [University of Iowa](https://clas.uiowa.edu/philosophy/).
 
+## Fall 2021 contact information
+* Campus office: Cherry Hall 306
+* Walk-in hours: Tuesdays and Thursdays, 3:45-5:15 pm
+* Mailing address: 1906 College Heights Blvd, #31086; Bowling Green, KY 42101-1086
+
 ## Areas of Research Specialization
 * History of analytic philosophy
 * Language and Logic
