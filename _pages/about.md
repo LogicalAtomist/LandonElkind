@@ -14,7 +14,7 @@ In true Texan fashion, I started in philosophy while in a car, reading Plato’s
 ## Spring 2022 contact information
 * Campus office: Cherry Hall 306
 * Walk-in hours: Fridays, 1:45-4:45 pm
-* Mailing address: Department of Political Science - Western Kentucky University - 1906 College Heights Blvd, #31086 - Bowling Green, KY 42101-1086
+* Mailing address: Political Science, Cherry Hall 306 - Western Kentucky University - 1906 College Heights Blvd - Bowling Green, KY 42101-1086
 
 ## Areas of Research Specialization
 * History of analytic philosophy
