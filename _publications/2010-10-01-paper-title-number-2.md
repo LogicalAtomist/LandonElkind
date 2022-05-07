@@ -12,4 +12,4 @@ The *contact argument* is widely cited as making a strong case against a gunk-fr
 
 <!--[Download paper here](http://academicpages.github.io/files/paper2.pdf)-->
 
-Recommended citation: Elkind, Landon D. C. (2022). &quot;The Contact Argument: A Little Unduly Simple?&quot; <i>American Philosophical Quarterly</i> 59(3), pp. 247-261.
+<!--Recommended citation: Elkind, Landon D. C. (2022). &quot;The Contact Argument: A Little Unduly Simple?&quot; <i>American Philosophical Quarterly</i> 59(3), pp. 247-261.-->
