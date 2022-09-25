@@ -1,8 +1,7 @@
 ---
 title: 'Against Huemer's "Against History"'
-layout: post
 date: 2021-01-07
-permalink: /blog/2021-01-07-against-huemers-against-history/
+permalink: /posts/2021-01-07-against-huemers-against-history/
 tags:
   - history of philosophy
   - metaphilosophy
