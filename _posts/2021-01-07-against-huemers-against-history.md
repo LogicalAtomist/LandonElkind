@@ -1,5 +1,5 @@
 ---
-title: 'Against Huemer's "Against History"'
+title: "Against Huemer's "Against History""
 date: 2021-01-07
 permalink: /posts/2021-01-07-against-huemers-against-history
 tags:
