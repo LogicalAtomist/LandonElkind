@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to my website! I am Western Kentucky University's resident logical atomist, and an [Assistant Professor of Philosophy](https://www.wku.edu/philosophy-religion/) in the [Department of Political Science](https://www.wku.edu/political-science/). Here is [a link to my CV](https://ln4.sync.com/dl/de4dc01c0/ikzwbf4p-x68zj744-j8n2x49p-dn3ux3de). Most of my current research focuses on the [*Principia* Rewrite project](https://www.principiarewrite.com/), which you can learn more about on my research page.
+Howdy! I am Western Kentucky University's resident logical atomist, and an [Assistant Professor of Philosophy](https://www.wku.edu/philosophy-religion/) in the [Department of Political Science](https://www.wku.edu/political-science/). Here is [a link to my CV](https://ln4.sync.com/dl/de4dc01c0/ikzwbf4p-x68zj744-j8n2x49p-dn3ux3de). Most of my current research focuses on the [*Principia* Rewrite project](https://www.principiarewrite.com/), which you can learn more about on my research page.
 
 Here is [my ASL 2023 talk](https://ln5.sync.com/dl/4479e0e20/z32ri2mi-auvnednk-8u937fpk-myak3z82).
 
@@ -26,9 +26,8 @@ In true Texan fashion, I started in philosophy while in a car, reading Plato’s
 
 ## Areas of Teaching Competence
 * Critical Thinking
-* Digital Humanities
-* Ethics
-* Indian Philosophy
+* Epistemology
+* Philosophy of Mind
 * Philosophy of Science
 
 ## Academic employment
