@@ -11,22 +11,21 @@ Howdy! I am Western Kentucky University's resident logical atomist, and an [Assi
 
 In true Texan fashion, I started in philosophy while in a car, reading Plato’s Republic on a road trip to Houston in junior high. I later took symbolic logic as a college freshman and fell in love with the subject. One thing led to another, and in 2018, I got a PhD in Philosophy and an MS in Mathematics from the [University of Iowa](https://clas.uiowa.edu/philosophy/).
 
-## Spring 2022 contact information
+## Fall 2023 contact information
 * Campus office: Cherry Hall 306
-* Walk-in hours: Fridays, 1:45-4:45 pm
-* Mailing address: Political Science, Cherry Hall 306 - Western Kentucky University - 1906 College Heights Blvd - Bowling Green, KY 42101-1086
+* Walk-in hours: MWF, 11:20-12:20
+* Mailing address: Political Science, Cherry Hall 300 - Western Kentucky University - 1906 College Heights Blvd - Bowling Green, KY 42101-1086
 
 ## Areas of Research Specialization
 * History of analytic philosophy
-* Language and Logic
+* Philosophy of Logic and Math
 * Metaphysics
-* Philosophy of Math
 
 ## Areas of Teaching Competence
 * Critical Thinking
 * Epistemology
-* Philosophy of Mind
-* Philosophy of Science
+* Philosophy of Science and Mind
+* Metaphilosophy
 
 ## Academic employment
 * **2021-present** Western Kentucky University, Department of Political Science, Assistant Professor of Philosophy
