@@ -110,7 +110,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "LogicalAtomist"
+  twitter          : #"LogicalAtomist"
   vine             :
   weibo            :
   xing             :
@@ -118,6 +118,7 @@ author:
   wikipedia        :
   philpapers       : "https://philpeople.org/profiles/landon-d-c-elkind"
   librivox         : "https://librivox.org/reader/9738"
+  mastodon         : "https://scholar.social/@LogicalAtomist"
 
 
 # Reading Files
