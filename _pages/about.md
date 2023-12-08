@@ -22,8 +22,8 @@ In true Texan fashion, I started in philosophy while in a car, reading Plato’s
 * Metaphysics
 
 ## Areas of Teaching Competence
-* Critical Thinking
-* Epistemology
+* Epistemology and Critical Thinking
+* Philosophy of Language
 * Philosophy of Science and Mind
 * Metaphilosophy
 
