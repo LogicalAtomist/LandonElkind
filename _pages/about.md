@@ -11,6 +11,8 @@ Howdy! I am Western Kentucky University's resident logical atomist, and an [Assi
 
 In true Texan fashion, I started in philosophy while in a car, reading Plato’s Republic on a road trip to Houston in junior high. I later took symbolic logic as a college freshman and fell in love with the subject. One thing led to another, and in 2018, I got a PhD in Philosophy and an MS in Mathematics from the [University of Iowa](https://clas.uiowa.edu/philosophy/).
 
+[SSHAP Slides](https://ln5.sync.com/dl/2338c32e0/eqdf5rup-5vtffynp-57xm4pyj-x5y8m2a3)
+
 ## Fall 2023 contact information
 * Campus office: Cherry Hall 306
 * Walk-in hours: MWF, 11:20-12:20
